@@ -3,8 +3,7 @@ Simple C++ program to compress a UTF-8 text file using Huffman tree.
 
 This project implemets a Huffman tree using caracter compression.
 
-If you want to learn more about how a Huffman tree works you can check a very good explanation from the website GeeksforGeeks [here]
-(https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/).
+If you want to learn more about how a Huffman tree works you can check a very good explanation from the website GeeksforGeeks [here](https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/).
 
 When compressing a file the program will generate a new file called "{fileName}C.bin", which is the compressed file itself. And after the decompressing a file the program will generate a file called "{fileName}D.txt" which will be a copy of the original text file that was previously compressed.
 
