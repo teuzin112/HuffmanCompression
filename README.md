@@ -14,7 +14,7 @@ Here are some test results:
 
 | Original file size | Time | Size of generated file |
 | --- | --- | --- |
-| 1 MB | ~0.866 s | 712 KB |
+| 1 MB | ~0.866 s | 712 kB |
 | 10 MB | ~7.543 s | 6.87 MB |
 | 100 MB | ~75.117 s | 68.7 MB |
 
