@@ -5,7 +5,7 @@ This project implemets a Huffman tree using caracter compression.
 
 If you want to learn more about how a Huffman tree works you can check a very good explanation from the website GeeksforGeeks [here](https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/).
 
-When compressing a file the program will generate a new file called "{fileName}C.bin", which is the compressed file itself. And after the decompressing a file the program will generate a file called "{fileName}D.txt" which will be a exect replica of the original text file that was previously compressed.
+When compressing a file the program will generate a new file called "{fileName}C.bin", which is the compressed file itself. And after the decompressing a file the program will generate a file called "{fileName}D.txt" which will be a exact replica of the original text file that was previously compressed.
 
 The process of both compressing and decompressing can take a significant amount of time to completly finish depending on the size of the files. 
 Here are some test results:
