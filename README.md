@@ -24,6 +24,6 @@ With the given results we have approximately a 30% of reduction from original fi
 
 | Compressed file size | Time | Size of generated file |
 | --- | --- | --- |
-| 712 kB MB | ~0.749 s | 1 MB |
+| 712 kB | ~0.749 s | 1 MB |
 | 6.87 MB | ~7.515 s | 10 MB |
 | 68.7 MB | ~74.092 s | 100 MB |
